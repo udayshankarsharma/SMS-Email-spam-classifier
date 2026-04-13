@@ -68,8 +68,8 @@ sms-email-spam-classifier/
 ### 1️⃣ Clone Repository
 
 ```bash
-git clone https://github.com/your-username/sms-email-spam-classifier.git
-cd sms-email-spam-classifier
+git clone https://github.com/udayshankarsharma/SMS-Email-spam-classifier.git
+
 ```
 
 ---
