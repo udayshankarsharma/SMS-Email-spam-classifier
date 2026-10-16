@@ -161,6 +161,8 @@ scikit-learn==1.5.0
 B.Tech CSE Student | ML & Data Science Enthusiast
 
 ---
+## Live check
+https://sms-email-spam-classifierml.streamlit.app/
 
 ## ⭐ Support
 
